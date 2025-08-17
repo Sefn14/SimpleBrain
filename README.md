@@ -36,3 +36,6 @@ The SimpleBrain model logs all user inputs and AI responses to a text file for f
 
 ### License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+### Example
+The folder Sefn14 is given as an example
