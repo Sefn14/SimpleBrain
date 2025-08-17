@@ -137,3 +137,4 @@ Welcome, and thank you for using Simple Brain.
 if __name__ == "__main__":
     agent = Agent(AI_AGENT)
     agent.setup()
+    
